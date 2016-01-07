@@ -1,7 +1,9 @@
-TIC TAC TOE
-
-* please ignore tictac.js, tictac_alt.js is the final code *
+Os and Xs game
 
 * you must click on one of the marker buttons before you can play *
 
 * gitRave code stolen from DTs example in week 1 *
+
+A simple Os and Xs game for one player, using javascript and Jquery. Choose O or X for your first move and the marker will alternate.
+
+When you win, the gitRave function will be called and the gameboard squares will flash random colours!
