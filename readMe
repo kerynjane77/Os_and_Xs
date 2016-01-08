@@ -4,6 +4,6 @@ Os and Xs game
 
 * gitRave code stolen from DTs example in week 1 *
 
-A simple Os and Xs game for one player, using javascript and Jquery. Choose O or X for your first move and the marker will alternate.
+A simple Os and Xs game for one player, made with javascript. Choose O or X for your first move and the marker will alternate.
 
 When you win, the gitRave function will be called and the gameboard squares will flash random colours!
