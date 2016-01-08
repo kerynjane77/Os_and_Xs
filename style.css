@@ -34,12 +34,6 @@ h1, h3 {
   text-align: center;
 }
 
-#game {
-  max-width: 40%;
-  display: center;
-  margin: 0 auto;
-}
-
 .square {
     float: left;
     min-height: 1.5em;
@@ -51,11 +45,12 @@ h1, h3 {
     padding: 5px;
     border: 5px solid white;
     margin: 0, auto;
-    width: 28%;
+    width: 29%;
 }
 
 #gameboard {
-  display: inline block;
+  max-width: 40%;
+  margin: 0 auto;
 }
 
 #resetBtn {
